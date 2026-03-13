@@ -1,6 +1,3 @@
-Here is a **clean GitHub README.md** you can **directly copy-paste into GitHub**. It includes installation, usage, structure, and description — which makes your repo look **professional and research-project ready**.
-
----
 
 # Multilingual Fact Verification System for Low-Resource Languages
 
